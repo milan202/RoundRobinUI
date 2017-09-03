@@ -1,0 +1,13 @@
+/* main story page */
+
+.story-text{
+height:inherit; 
+overflow-y:auto; 
+text-align:justify; 
+height:800px;
+}
+
+.story-para{
+    margin-right: 20px;
+    margin-left: 20px;
+}
